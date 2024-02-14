@@ -4,6 +4,10 @@ Welcome to the Zomoto Landing Page project repository! This project is a static 
 ## Description
 The Zomoto Landing Page is a single-page website created using HTML and CSS. It features a responsive design, ensuring optimal viewing experience across various devices, including desktops, tablets, and mobile phones.
 
+## Live Demo
+You can view a live demo of the Zomoto Landing Page here :
+#### https://zomoto-landing-page-parth.netlify.app/
+
 ## Features
 ### Responsive Design:
 The landing page is designed to adapt seamlessly to different screen sizes, providing a consistent user experience across devices.
