@@ -20,7 +20,7 @@ As the project is built with HTML and CSS, it's straightforward to customize and
 
 ## Installation
 To run this project locally, simply clone the repository to your local machine:
-git clone https://github.com/your-username/zomoto-landing-page.git
+git clone https://github.com/BaldaniyaParth/zomoto-landing-page.git
 
 Then, open the index.html file in your preferred web browser to view the landing page.
 
